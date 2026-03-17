@@ -44,5 +44,6 @@ Create AI systems that are:
 ---
 
 ### 📬 Get in Touch
-
+frankdz7@icloud.com
 Feel free to reach out if you want to chat about AI, projects, or collaboration!
+
