@@ -14,18 +14,14 @@
 
 ### 🌟 About Me
 
-Hello! I’m **Daizhi (Frank) Fan**, a graduate from the  
-**National University of Singapore 🇸🇬** with a strong passion for AI.
+Hello! I’m **Daizhi (Frank) Fan**, a **Research Assistant in CAIR-CAS Hong Kong**,  
+with a strong passion for AI.
 
 I’m deeply interested in:
-- 👁️ **Computer Vision**
+- 👁️ **LLM Reasoning**
 - 🗣️ **Natural Language Processing**
-- 🤖 **LLM-based AI Agents**
+- 🤖 **Agentic Workflow**
 - ⚡ Building practical, fun, and meaningful AI tools
-
-These days, I’m learning and experimenting with **LLMs & Agentic workflows**  
-— enthusiastically and relentlessly.
-
 ---
 
 ### 🧰 Tech Stack & Interests
