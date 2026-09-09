@@ -15,7 +15,7 @@
 ### 🌟 About Me
 
 Hello! I’m **Daizhi (Frank) Fan** an AI enthusiast based in Hong Kong.
-Always Learning 
+
 I’m deeply interested in:
 - 👁️ **LLM Reasoning**
 - 🗣️ **Natural Language Processing**
