@@ -21,7 +21,6 @@ I’m deeply interested in:
 - ⚡ **AI Application**
 - 🗣️ **Natural Language Processing**
 - 🤖 **Agentic Workflow**
-- 
 ---
 
 ### 🧰 Tech Stack & Interests
