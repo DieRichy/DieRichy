@@ -18,9 +18,10 @@ Hello! I’m **Daizhi (Frank) Fan** an AI enthusiast based in Hong Kong.
 
 I’m deeply interested in:
 - 👁️ **LLM Reasoning**
+- ⚡ **AI Application**
 - 🗣️ **Natural Language Processing**
 - 🤖 **Agentic Workflow**
-- ⚡ Building practical, fun, and meaningful AI tools
+- 
 ---
 
 ### 🧰 Tech Stack & Interests
