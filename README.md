@@ -4,7 +4,7 @@
   <div style="flex: 1;">
     <h3><h1 align="center">👋Welcome to My Personal Page</strong></h1></h3>
     <p align="center">
-  🚀 AI Enthusiast • 🤖 LLM Agent Explorer • 📸 CV & NLP Learner  
+  🚀 AI Enthusiast • 🤖 LLM Agent Explorer • Learning to make products with AI 
 </p>
   </div>
   <img src="https://github.com/user-attachments/assets/c6f08e79-493e-41dc-a068-e6b7fd3816c1" 
@@ -14,9 +14,8 @@
 
 ### 🌟 About Me
 
-Hello! I’m **Daizhi (Frank) Fan**, a **Research Assistant in CAIR-CAS Hong Kong**,  
-with a strong passion for AI.
-
+Hello! I’m **Daizhi (Frank) Fan** an AI enthusiast based in Hong Kong.
+Always Learning 
 I’m deeply interested in:
 - 👁️ **LLM Reasoning**
 - 🗣️ **Natural Language Processing**
